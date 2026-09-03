@@ -10,8 +10,6 @@ This repository contains the major project **Seasonal Agriculture Performance An
 ```text
 ├── data/
 │   └── seasonal_agriculture_performance_dataset.csv  # Original Dataset (4,000 rows x 28 features)
-├── outputs/
-│   └── charts/                                        # Exported High-Resolution EDA Charts (300 DPI)
 ├── seasonal_agriculture_performance_dataset.csv       # Root Dataset copy
 ├── seasonal_agriculture_analysis.py                    # Complete Data Analytics Pipeline Script
 ├── Seasonal_Agriculture_Performance_Analysis.ipynb    # Executed Interactive Jupyter Notebook
@@ -50,10 +48,10 @@ This repository contains the major project **Seasonal Agriculture Performance An
 ```bash
 python seasonal_agriculture_analysis.py
 ```
-This script will execute the full data cleaning, statistical modeling, and export 8 chart figures to `outputs/charts/`.
+This script will execute the full data cleaning, statistical modeling, and analysis pipeline.
 
 ### 2. Run via Jupyter Notebook
-Open `Seasonal_Agriculture_Performance_Analysis.ipynb` in Jupyter Notebook, JupyterLab, or VS Code and run all cells sequentially.
+Open `Seasonal_Agriculture_Performance_Analysis.ipynb` in Jupyter Notebook, JupyterLab, or VS Code. All visualization plots and analytical outputs are already executed and displayed inside the notebook.
 
 ---
 
