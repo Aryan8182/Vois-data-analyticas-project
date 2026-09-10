@@ -1,6 +1,10 @@
 # 🌾 Seasonal Agriculture Performance Analysis
 ### 🚀 **VOIS AICTE Internship Program | Major Data Analytics Project (2026–2027)**
 
+<p align="center">
+  <a href="https://aryan8182.github.io/Vois-data-analyticas-project/"><img src="https://img.shields.io/badge/Live%20Demo-📊%20Open%20Analytics%20Dashboard-10b981?style=for-the-badge&logo=githubpages" alt="Live Analytics Dashboard"/></a>
+</p>
+
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
